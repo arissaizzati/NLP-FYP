@@ -13,7 +13,7 @@ import malaya
 #from nltk.tokenize import sent_tokenize
 import string
 
-from ngram_malaya import ngram_stem_malaya
+from ngram_malaya2 import ngram_stem_malaya
 
 st.header("DEMO FYP PART1 - APPLYING NATURAL LANGUAGE PROCESSING ON THE LYRICS")
 
